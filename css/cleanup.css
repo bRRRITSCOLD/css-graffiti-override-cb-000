@@ -1,16 +1,26 @@
+<<<<<<< HEAD
 #wall .tag-1 {
   display: none;
+=======
+#wall .tag-1 { 
+  display: none; 
+>>>>>>> 2ce277a26f107afc1ac405e817f8a8c4375a038e
 }
 
 #wall div#tag-2 {
   display: none;
 }
 
+<<<<<<< HEAD
 div#wall #tag-3.slick.wicked {
+=======
+div#wall #tag-3.slick.wicked { 
+>>>>>>> 2ce277a26f107afc1ac405e817f8a8c4375a038e
   display: none;
 }
 
 #wall .parent #tag-4 {
+<<<<<<< HEAD
   display: none;
 }
 
@@ -20,8 +30,23 @@ div#wall div.parent #tag-5.slick {
 
 body div#wall div.parent div:last-child div#tag-6 {
   display: none;
+=======
+  display: none; 
+}
+
+div#wall div.parent #tag-5.slick {
+  display: none; 
+}
+
+body div#wall div.parent div:last-child div#tag-6 {
+  display: none; 
+>>>>>>> 2ce277a26f107afc1ac405e817f8a8c4375a038e
 }
 
 body div#wall div.parent div:first-child > div#tag-7.slick {
   display: none;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 2ce277a26f107afc1ac405e817f8a8c4375a038e
